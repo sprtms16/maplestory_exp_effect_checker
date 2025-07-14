@@ -3,3 +3,4 @@ mss
 easyocr
 requests
 configparser
+opencv-python
